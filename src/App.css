@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+li{
+  padding: 15px;
+  color: black;
+}
+.cardsImgOne li img {
+  width: 60%;
+}
